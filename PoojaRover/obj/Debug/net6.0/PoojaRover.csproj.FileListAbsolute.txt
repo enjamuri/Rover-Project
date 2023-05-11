@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\PoojaRover\PoojaRover\PoojaRover\bin\Debug\net6.0\PoojaRover.exe
+C:\Users\pooja\Desktop\PoojaRover\PoojaRover\PoojaRover\bin\Debug\net6.0\PoojaRover.deps.json
+C:\Users\pooja\Desktop\PoojaRover\PoojaRover\PoojaRover\bin\Debug\net6.0\PoojaRover.runtimeconfig.json
+C:\Users\pooja\Desktop\PoojaRover\PoojaRover\PoojaRover\bin\Debug\net6.0\PoojaRover.dll
+C:\Users\pooja\Desktop\PoojaRover\PoojaRover\PoojaRover\bin\Debug\net6.0\PoojaRover.pdb
+C:\Users\pooja\Desktop\PoojaRover\PoojaRover\PoojaRover\obj\Debug\net6.0\PoojaRover.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\PoojaRover\PoojaRover\PoojaRover\obj\Debug\net6.0\PoojaRover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\PoojaRover\PoojaRover\PoojaRover\obj\Debug\net6.0\PoojaRover.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\PoojaRover\PoojaRover\PoojaRover\obj\Debug\net6.0\PoojaRover.AssemblyInfo.cs
+C:\Users\pooja\Desktop\PoojaRover\PoojaRover\PoojaRover\obj\Debug\net6.0\PoojaRover.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\PoojaRover\PoojaRover\PoojaRover\obj\Debug\net6.0\PoojaRover.dll
+C:\Users\pooja\Desktop\PoojaRover\PoojaRover\PoojaRover\obj\Debug\net6.0\refint\PoojaRover.dll
+C:\Users\pooja\Desktop\PoojaRover\PoojaRover\PoojaRover\obj\Debug\net6.0\PoojaRover.pdb
+C:\Users\pooja\Desktop\PoojaRover\PoojaRover\PoojaRover\obj\Debug\net6.0\PoojaRover.genruntimeconfig.cache
+C:\Users\pooja\Desktop\PoojaRover\PoojaRover\PoojaRover\obj\Debug\net6.0\ref\PoojaRover.dll
